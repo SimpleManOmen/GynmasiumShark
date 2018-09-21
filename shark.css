@@ -1,0 +1,4 @@
+/* To bring attention to the common names of sharks to help users scan the articles. */
+.sharkname{ 
+  font-weight: bold; 
+}
